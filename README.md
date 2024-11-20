@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanibhadoriya&label=Profile%20views&color=0e75b6&style=flat" alt="shivanibhadoriya" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working as Web Intern at **Tech Extensor**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ASP .Net**
 
 - 👯 I’m looking to collaborate on **real world projects**
 
